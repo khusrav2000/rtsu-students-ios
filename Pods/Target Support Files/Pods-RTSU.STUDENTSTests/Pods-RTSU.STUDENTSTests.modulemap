@@ -1,0 +1,6 @@
+framework module Pods_RTSU_STUDENTSTests {
+  umbrella header "Pods-RTSU.STUDENTSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
